@@ -1,0 +1,51 @@
+export const homeObjOne = {
+    id: 'about',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topline: 'Premuim Bankk',
+    headline: 'Unlimited Transactions with zero fees',
+    description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees',
+    buttonLabel: 'Get started',
+    imgStart: false,
+    img: require('../../images/svg1.png'),
+    alt: 'phone',
+    dark: true,
+    primary: true,
+    darkText:false,
+ 
+}
+export const homeObjTwo = {
+    id: 'discover',
+    lightBg: true,
+    lightText: true,
+    lightTextDesc: true,
+    topline: 'Premuim Bankk',
+    headline: ' Login to ur account at any time',
+    description: 'we have you covered no matter where you are located. All you need is an internet connection and a phone or computer',
+    buttonLabel: 'Get started',
+    imgStart: false,
+    img: require('../../images/money.png'),
+    alt: 'banking',
+    dark: false,
+    primary: false,
+    darkText:false,
+ 
+}
+export const homeObjThree = {
+    id: 'signup',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topline: 'Premuim Bankk',
+    headline: 'Unlimited Transactions with zero fees',
+    description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees',
+    buttonLabel: 'learn more',
+    imgStart: false,
+    img: require('../../images/img.png'),
+    alt: 'bank',
+    dark: true,
+    primary: false,
+    darkText:false,
+ 
+}
